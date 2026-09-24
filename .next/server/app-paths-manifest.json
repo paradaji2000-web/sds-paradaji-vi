@@ -1,0 +1,5 @@
+{
+  "/admin/(dashboard)/page": "app/admin/(dashboard)/page.js",
+  "/(public)/page": "app/(public)/page.js",
+  "/(public)/tentang/page": "app/(public)/tentang/page.js"
+}
